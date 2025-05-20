@@ -2,4 +2,5 @@
 
 Allows you to mark game objects as favourites.
 
-![image](https://github.com/user-attachments/assets/dd042e6c-df0e-412c-bbc8-ca8267d5522e)
+![image](https://github.com/user-attachments/assets/17a72f08-f79a-46ce-aca3-52bcf0c144a9)
+
